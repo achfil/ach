@@ -10,7 +10,6 @@
 "hello"<"goodbye"
 TRUE < FALSE
 
-5<=3
 3>=3
 
 Linkedin>=12
