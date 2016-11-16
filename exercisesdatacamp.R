@@ -10,6 +10,7 @@
 "hello"<"goodbye"
 TRUE < FALSE
 
+5<=3
 3>=3
 
 Linkedin<- c(16,7, 12, 14,19,18,30,1)
