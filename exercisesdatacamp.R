@@ -13,7 +13,6 @@ TRUE < FALSE
 5<=3
 3>=3
 
-Linkedin<- c(16,7, 12, 14,19,18,30,1)
 Linkedin>=12
 facebook<- c(12,3,14,14,56,67,87,90)
 facebook<Linkedin
